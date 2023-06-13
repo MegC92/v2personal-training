@@ -16,15 +16,25 @@ The Landing Section image
 The landing includes a photograph with a logo overlay to allow the user to become aware of FemmeFit logo
 This section introduces the user to FemmeFit with a sleek photo of women exercising at the premises. 
 
+[insert landing here]
+
 About Section
 
-The About section allows the user to understand more about the gym's ethos club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
-Club Ethos
+The About section allows the user to gain a better understanding of the gym's origin and standing as a female operated gym. It discusses some of the classes and services that are available and emphasises the strong sense of community that the gym endeavours to offer. 
 
 Pricing section
 
 This section will allow the user to see the different types of payment plans available to them when wishing to attend the gym. 
+
+Contact Us section
+
+Provides the user with contact information to get in touch with gym. Also provides an embedded map indicating location of gym. 
+
+Sign Up Now section
+
+Provides the user with a basic contact form to submit their interest in signing up for the gym. This section includes a name, e-mail, and message field. 
+
+insert contact here 
 
 The Footer
 
@@ -37,23 +47,18 @@ A testimonials page with reviews from current and past members
 A page detailing classes on offer 
 
 Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Chrome Dev Tools was used to test out media query and responsivity prior to deployment - the site displayed on multiple screen sizes generally well without major responsivity issues. 
 
 Validator Testing
 HTML
-No errors were returned when passing through the official W3C validator
+One errors was returned when passing through the official W3C validator regarding the charset UTF-8, please see image: 
 
 CSS
 No errors were found when passing through the official (Jigsaw) validator - please see link here https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-megc92-v2personal-traini-5iv6y06879.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css
 
 Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+HTML Validator error RE: charset UTF-8 remains unfixed as unsure what is wrong with this and does not appear to impact functionality of website. 
 
 Deployment
 
