@@ -10,7 +10,6 @@ body {
     background-color: #ffffff;
 }
 
-
 .white {
     color: #ffffff;
 }
@@ -48,6 +47,10 @@ a {
     font-weight: 400;
 }
 
+ul { 
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
 .text-center {
     text-align: center;
 }
@@ -129,8 +132,9 @@ a {
 }
 
 .landing-section,
-.about-section,
-.get-started-section {
+.about-section, 
+.get-started-pricing-section
+ {
     align-items: center;
     max-width: 100%;
     width: 100%;
