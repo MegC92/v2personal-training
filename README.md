@@ -1,60 +1,40 @@
 FemmeFit
-FemmeFit is a site that hopes to inspire women to feel confident starting their fitness journey in FemmeFit's all female gym and fitness centre. The site is targetted at women of all fitness abilities who are hoping to join a female only gym. FemmeFit will be helpful for women to learn about the services offered at FemmeFit gym.
+
+FemmeFit is a website that hopes to entice women to feel confident starting, or continuing, their fitness journey in FemmeFit's state-of-the-art all female gym and fitness centre. The site is targetted at women of all fitness abilities who are hoping to join a female only gym. The FemmeFit website will be helpful for women to learn about the services offered at FemmeFit gym.
 
 
 [image of Responsivee Mockup]
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 Existing Features
+
 Navigation Bar
 
-Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-Nav Bar
+The navigation bar is present on all three webpages and includes links to Home, About, and Pricing. This navigation bar is identical across each webpage. The navigation bar allows users to navigate through each page without having to use the 'back' button.
 
-The landing page image
+The Landing Section image
 
-The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Love Running with an eye catching animation to grab their attention
-Landing Page
+The landing includes a photograph with a logo overlay to allow the user to become aware of FemmeFit logo
+This section introduces the user to FemmeFit with a sleek photo of women exercising at the premises. 
 
-Club Ethos Section
+About Section
 
-The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
+The About section allows the user to understand more about the gym's ethos club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
 This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
 Club Ethos
 
-Meetup Times section
+Pricing section
 
-This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-This section will be updated as these times change to keep the user up to date.
-Meetup Times
+This section will allow the user to see the different types of payment plans available to them when wishing to attend the gym. 
 
 The Footer
 
-The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
+The footer section includes links to the relevant social media sites for FemmeFit. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
-Footer
-
-Gallery
-
-The gallery will provide the user with supporting images to see what the meet ups look like.
-This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
-Gallery
-
-The Sign Up Page
-
-This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
-Sign Up
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
 A gallery of gym members participating in classes and attending the gym. 
+A testimonials page with reviews from current and past members
+A page detailing classes on offer 
 
 Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -68,31 +48,28 @@ If this section grows too long, you may want to split it off into a separate fil
 Validator Testing
 HTML
 No errors were returned when passing through the official W3C validator
+
 CSS
-No errors were found when passing through the official (Jigsaw) validator
+No errors were found when passing through the official (Jigsaw) validator - please see link here https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-megc92-v2personal-traini-5iv6y06879.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css
+
 Unfixed Bugs
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+On the GitHub repository, navigate to the Settings tab
+On lefthand side of page - navigate to Pages
+The source was set to 'Deploy from a branch' 
+Once selected, the 'main' branch was then selected and saved 
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
 
 Credits
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-
-Content
-The text for the Home page was generated by ChatGBT
-Instructions on how to use and implement 
-Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
-The icons in the footer were taken from Font Awesome
-Media
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
+Content & Media
+The text for each of the webpages was was generated by ChatGBTInstructions on how to use and implement FlexBox was taken  from a W3Schools Tutorial (https://www.w3schools.com/css/css3_flexbox.asp)
+The fonts for the website were imported from Google Fonts
+The color pallette was chosen using ColorSpace however mainly stuck to one color 
+The icons in the footer were taken from Font Awesome Media
+The photos used across the website were downloaded from Unsplash
+The FemmeFit logo was made in Photoshop 
