@@ -1,4 +1,4 @@
-FemmeFit
+# H1 FemmeFit
 
 FemmeFit is a website that hopes to entice women to feel confident starting, or continuing, their fitness journey in FemmeFit's state-of-the-art all female gym and fitness centre. The site is targetted at women of all fitness abilities who are hoping to join a female only gym. The FemmeFit website will be helpful for women to learn about the services offered at FemmeFit gym.
 
@@ -55,7 +55,7 @@ HTML
 One errors was returned when passing through the official W3C validator regarding the charset UTF-8, please see image: 
 
 CSS
-No errors were found when passing through the official (Jigsaw) validator - please see link here https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-megc92-v2personal-traini-5iv6y06879.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css
+No errors were found when passing through the official (Jigsaw) validator - please see link here ![https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-megc92-v2personal-traini-5iv6y06879.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css]
 
 Unfixed Bugs
 HTML Validator error RE: charset UTF-8 remains unfixed as unsure what is wrong with this and does not appear to impact functionality of website. 
