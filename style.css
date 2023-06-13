@@ -117,7 +117,7 @@ a {
 
 .landing-section {
     height: 100vh;
-    background-image: url("images/w2.jpg");
+    background-image: url("assets/images/w2.jpg");
     background-size: cover;
     display: flex;
     align-items: center;
