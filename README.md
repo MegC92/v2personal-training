@@ -2,8 +2,7 @@
 
 FemmeFit is a website that hopes to entice women to feel confident starting, or continuing, their fitness journey in FemmeFit's state-of-the-art all female gym and fitness centre. The site is targetted at women of all fitness abilities who are hoping to join a female only gym. The FemmeFit website will be helpful for women to learn about the services offered at FemmeFit gym.
 
-
-[image of Responsivee Mockup]
+![AmIResponsive](asset/images/responsive.JPG)
 
 ## Existing Features
 
@@ -83,7 +82,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 2. On lefthand side of page - navigate to Pages
 3. The source was set to 'Deploy from a branch' 
 4. Once selected, the 'main' branch was then selected and saved 
-5. The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+5. The live link can be found here - https://megc92.github.io/v2personal-training/
 
 ## Credits
 
