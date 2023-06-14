@@ -11,6 +11,8 @@ FemmeFit is a website that hopes to entice women to feel confident starting, or 
 
 The navigation bar is present on all three webpages and includes links to Home, About, and Pricing. This navigation bar is identical across each webpage. The navigation bar allows users to navigate through each page without having to use the 'back' button.
 
+![NavigationSection](assets/images/nav-bar.JPG)
+
 ### The Landing Section image
 
 The landing includes a photograph with a logo overlay to allow the user to become aware of FemmeFit logo
@@ -18,13 +20,24 @@ This section introduces the user to FemmeFit with a sleek photo of women exercis
 
 ![LandingSection](assets/images/landing-section-readme.JPG)
 
-### About Section
+### Welcome Section
+
+This section welcomes users to the website giving a brief overview of what the gym offers which is further elaborated upon on the About page. 
+
+![Welcome Section](assets/images/welcome.JPG)
+
+### How It Works Section
 
 The About section allows the user to gain a better understanding of the gym's origin and standing as a female operated gym. It discusses some of the classes and services that are available and emphasises the strong sense of community that the gym endeavours to offer. 
+
+![AboutSection](asset/images/get-started.JPG)
+
 
 ### Pricing section
 
 This section will allow the user to see the different types of payment plans available to them when wishing to attend the gym. 
+
+![PricingSection](assets/images/pricing.JPG)
 
 ### Contact Us section
 
@@ -38,8 +51,9 @@ Provides the user with a basic contact form to submit their interest in signing 
 
 ### The Footer
 
-The footer section includes links to the relevant social media sites for FemmeFit. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social media
+The footer section includes links to the relevant social media sites for FemmeFit. The links will open to a new tab to allow easy navigation for the user. The footer also allows users to access the gym's various social media pages. 
+
+![FooterSection](assets/images/footer.JPG)
 
 ## Features Left to Implement
 - A gallery of gym members participating in classes and attending the gym. 
@@ -59,7 +73,8 @@ One error was returned when passing through the official W3C validator regarding
 No errors were found when passing through the official (Jigsaw) validator - please see link [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-megc92-v2personal-traini-5iv6y06879.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ## Unfixed Bugs
-HTML Validator error RE: charset UTF-8 remains unfixed as unsure what is wrong with this and does not appear to impact functionality of website. 
+- HTML Validator error RE: charset UTF-8 remains unfixed as unsure what is wrong with this and does not appear to impact functionality of website.
+- I had significant difficulty using CodeAnywhere IDE (first time using an IDE) which resulted in me having to make several new workspaces when the original workspaces stopped working for me. As I would progress to such a stage in one workspace with some code - I would copy that successful code over to the succesful workspace. As such, my commit history on this repository is not as clear or detailed as I would have liked.  
 
 ## Deployment
 
