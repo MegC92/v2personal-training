@@ -63,6 +63,10 @@ The footer section includes links to the relevant social media sites for FemmeFi
 
 - I tested the website in multiple browsers - Firefox, Edge, Chrome (site successful in each)
 - I ensured project was responsive in different screen sizes using Chrome Dev Tools - the site displayed on multiple screen sizes generally well without major responsivity issues. 
+- I tested using Lighthouse with the below results 
+#### Desktop: 
+![LightHouseDesktop](assets/images/lighthouse-desktop.JPG)
+#### Mobile: ![LightHouseMobile](assets/images/lighthouse-mobile.JPG)
 - I confirmed that the Navigation bar is functioning and directs the user to the correct pages without issue. 
 
 ### HTML
