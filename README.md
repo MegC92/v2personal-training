@@ -2,7 +2,7 @@
 
 FemmeFit is a website that hopes to entice women to feel confident starting, or continuing, their fitness journey in FemmeFit's state-of-the-art all female gym and fitness centre. The site is targetted at women of all fitness abilities who are hoping to join a female only gym. The FemmeFit website will be helpful for women to learn about the services offered at FemmeFit gym.
 
-![AmIResponsive](asset/images/responsive.JPG)
+![AmIResponsive](assets/images/responsive.JPG)
 
 ## Existing Features
 
