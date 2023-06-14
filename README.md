@@ -15,85 +15,95 @@ The navigation bar is present on all three webpages and includes links to Home, 
 ### The Landing Section image
 
 The landing includes a photograph with a logo overlay to allow the user to become aware of FemmeFit logo
-This section introduces the user to FemmeFit with a sleek photo of women exercising at the premises. 
+This section introduces the user to FemmeFit with a sleek photo of women exercising at the premises.
 
 ![LandingSection](assets/images/landing-section-readme.JPG)
 
 ### Welcome Section
 
-This section welcomes users to the website giving a brief overview of what the gym offers which is further elaborated upon on the About page. 
+This section welcomes users to the website giving a brief overview of what the gym offers which is further elaborated upon on the About page.
 
 ![Welcome Section](assets/images/welcome.JPG)
 
 ### How It Works Section
 
-The About section allows the user to gain a better understanding of the gym's origin and standing as a female operated gym. It discusses some of the classes and services that are available and emphasises the strong sense of community that the gym endeavours to offer. 
+The About section allows the user to gain a better understanding of the gym's origin and standing as a female operated gym. It discusses some of the classes and services that are available and emphasises the strong sense of community that the gym endeavours to offer.
 
-![AboutSection](asset/images/about.JPG)
-
+![AboutSection](assets/images/about.JPG)
 
 ### Pricing section
 
-This section will allow the user to see the different types of payment plans available to them when wishing to attend the gym. 
+This section will allow the user to see the different types of payment plans available to them when wishing to attend the gym.
 
 ![PricingSection](assets/images/pricing.JPG)
 
 ### Contact Us section
 
-Provides the user with contact information to get in touch with gym. Also provides an embedded map indicating location of gym. 
+Provides the user with contact information to get in touch with gym. Also provides an embedded map indicating location of gym.
 
 ### Sign Up Now section
 
-Provides the user with a basic contact form to submit their interest in signing up for the gym. This section includes a name, e-mail, and message field. 
+Provides the user with a basic contact form to submit their interest in signing up for the gym. This section includes a name, e-mail, and message field.
 
 ![ContactSignUp](assets/images/Contact-signup-section-readme.JPG)
 
 ### The Footer
 
-The footer section includes links to the relevant social media sites for FemmeFit. The links will open to a new tab to allow easy navigation for the user. The footer also allows users to access the gym's various social media pages. 
+The footer section includes links to the relevant social media sites for FemmeFit. The links will open to a new tab to allow easy navigation for the user. The footer also allows users to access the gym's various social media pages.
 
 ![FooterSection](assets/images/footer.JPG)
 
 ## Features Left to Implement
-- A gallery of gym members participating in classes and attending the gym. 
+
+- A gallery of gym members participating in classes and attending the gym.
 - A testimonials page with reviews from current and past members
-- A page detailing classes on offer 
+- A page detailing classes on offer
 
 ## Testing/Validator Testing
 
 - I tested the website in multiple browsers - Firefox, Edge, Chrome (site successful in each)
-- I ensured project was responsive in different screen sizes using Chrome Dev Tools - the site displayed on multiple screen sizes generally well without major responsivity issues. 
-- I tested using Lighthouse with the below results 
-#### Desktop: 
+- I ensured project was responsive in different screen sizes using Chrome Dev Tools - the site displayed on multiple screen sizes generally well without major responsivity issues.
+- I tested using Lighthouse with the below results
+
+#### Desktop:
+
 ![LightHouseDesktop](assets/images/lighthouse-desktop.JPG)
+
 #### Mobile: ![LightHouseMobile](assets/images/lighthouse-mobile.JPG)
-- I confirmed that the Navigation bar is functioning and directs the user to the correct pages without issue. 
+
+- I confirmed that the Navigation bar is functioning and directs the user to the correct pages without issue.
 
 ### HTML
+
 Errors were returned when using W3C validator - all errors were amended and none remain.
+
 ### CSS
+
 No errors were found when passing through the official (Jigsaw) validator - please see link [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-megc92-v2personal-traini-5iv6y06879.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ## Unfixed Bugs
+
 - HTML Validator error RE: charset UTF-8 remains unfixed as unsure what is wrong with this and does not appear to impact functionality of website.
-- I had significant difficulty using CodeAnywhere IDE (first time using an IDE) which resulted in me having to make several new workspaces when the original workspaces stopped working for me. As I would progress to such a stage in one workspace with some code - I would copy that successful code over to the succesful workspace. As such, my commit history on this repository is not as clear or detailed as I would have liked.  
+- I had significant difficulty using CodeAnywhere IDE (first time using an IDE) which resulted in me having to make several new workspaces when the original workspaces stopped working for me. As I would progress to such a stage in one workspace with some code - I would copy that successful code over to the succesful workspace. As such, my commit history on this repository is not as clear or detailed as I would have liked.
 
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
+
 1. On the GitHub repository, navigate to the Settings tab
 2. On lefthand side of page - navigate to Pages
-3. The source was set to 'Deploy from a branch' 
-4. Once selected, the 'main' branch was then selected and saved 
+3. The source was set to 'Deploy from a branch'
+4. Once selected, the 'main' branch was then selected and saved
 5. The live link can be found here - https://megc92.github.io/v2personal-training/
 
 ## Credits
 
 ### Content & Media
+
 - The filler text for each of the webpages was was generated by ChatGBT
-- Instructions on how to use and implement FlexBox for layouts was taken  from a [W3 Schools Tutorial](https://www.w3schools.com/css/css3_flexbox.asp)
+- Instructions on how to use and implement FlexBox for layouts was taken from a [W3 Schools Tutorial](https://www.w3schools.com/css/css3_flexbox.asp)
 - The fonts for the website were imported from Google Fonts
-- The color pallette was chosen using ColorSpace however chose to primarily use one color 
+- The color pallette was chosen using ColorSpace however chose to primarily use one color
 - The icons in the footer were taken from Font Awesome Media
 - The photos used across the website were downloaded from Unsplash
-- I made the FemmeFit logo in Photoshop 
+- I made the FemmeFit logo in Photoshop
