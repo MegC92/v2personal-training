@@ -30,7 +30,7 @@ This section welcomes users to the website giving a brief overview of what the g
 
 The About section allows the user to gain a better understanding of the gym's origin and standing as a female operated gym. It discusses some of the classes and services that are available and emphasises the strong sense of community that the gym endeavours to offer. 
 
-![AboutSection](asset/images/get-started.JPG)
+![AboutSection](asset/images/about.JPG)
 
 
 ### Pricing section
