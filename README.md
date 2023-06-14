@@ -70,8 +70,7 @@ The footer section includes links to the relevant social media sites for FemmeFi
 - I confirmed that the Navigation bar is functioning and directs the user to the correct pages without issue. 
 
 ### HTML
-One error was returned when passing through the official W3C validator regarding the charset UTF-8, please see image: ![W3CHTML](assets/images/html-validation.JPG)
-
+Errors were returned when using W3C validator - all errors were amended and none remain.
 ### CSS
 No errors were found when passing through the official (Jigsaw) validator - please see link [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-megc92-v2personal-traini-5iv6y06879.us2.codeanyapp.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
